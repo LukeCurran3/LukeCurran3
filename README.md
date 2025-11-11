@@ -2,7 +2,7 @@
 
 🎓 **Data Science Student @ Case Western Reserve University**  
 📍 Cleveland, OH | 🇦🇷 Study Abroad: Instituto Tecnológico de Buenos Aires (Spring 2025)  
-📫 [lukexaviercurran@gmail.com](mailto:lukexaviercurran@gmail.com) | [LinkedIn](https://www.linkedin.com/in/luke-curran123) | [GitHub](https://github.com/LukeCurran3)
+📫 [lukexaviercurran@gmail.com](mailto:lukexaviercurran@gmail.com) | [LinkedIn](https://www.linkedin.com/in/luke-curran123)
 
 ---
 
