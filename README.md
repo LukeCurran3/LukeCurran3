@@ -60,4 +60,3 @@ Built a full-stack **machine learning model** in Python to forecast presidential
 
 ---
 
-⭐ *“Turning data into insight, and insight into impact.”*  
