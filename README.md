@@ -1,62 +1,76 @@
-# 👋 Hi, I'm Luke Curran
+# Luke Curran
 
-🎓 **Data Science Student @ Case Western Reserve University**  
-📍 Cleveland, OH | 🇦🇷 Study Abroad: Instituto Tecnológico de Buenos Aires (Spring 2025)  
-📫 [lukexaviercurran@gmail.com](mailto:lukexaviercurran@gmail.com) | [LinkedIn](https://www.linkedin.com/in/luke-curran123)
+**Data Science and Spanish @ Case Western Reserve University** | Class of 2027
+Cleveland, OH
 
----
-
-## 🌟 About Me
-
-I’m a **data science student** passionate about the intersection of **artificial intelligence, software engineering, and human-centered data systems**.  
-I love building tools that make complex ideas more intuitive — from election forecasting and database architecture to quantum computing outreach.
-
-When I’m not coding, I’m either rowing on the CWRU team, speaking Spanish, or cooking something new from scratch.
+[lukexaviercurran@gmail.com](mailto:lukexaviercurran@gmail.com) · [LinkedIn](https://www.linkedin.com/in/luke-curran123) · [GitHub](https://github.com/LukeCurran3)
 
 ---
 
-## 🧠 Technical Skills
+## About
 
-**Languages:** Python, R, Java, MATLAB, MySQL  
-**Frameworks & Tools:** Pandas, Scikit-learn, PyTorch, MongoDB, Neo4j, Cassandra  
-**Concepts:** Machine Learning, Data Engineering, Database Optimization, Graph Modeling, Statistical Analysis  
+I am a data scince student that has worked on open-source intelligence pipelines, neighborhood data platforms, and geospatial visualizations of organized crime in Latin America. My research focuses on LLM adoption as well as criminal governance in Mexico and how it shapes the health of the communities living under it.
 
 ---
 
-## 💼 Experience
+## Experience
 
-**Media Manager Intern** — *Quantum Coalition* (May 2025 – Present)  
-> Aiding media and sponsorship relations for a nonprofit making quantum computing accessible through hackathons and outreach.
+**Data Science Intern** | Battelle | Columbus, OH | Summer 2026
+- Built automated collection and extraction pipelines for an open-source intelligence platform, including a scraper that gathered 377 procurement records from a foreign-language source.
+- Led the visualization, reporting, and assurance workstream for an internal Python analytics framework, delivering chart templates, a selector module, and a dashboard composer.
 
-**Food Server** — *Tepache Mexican Kitchen* (May 2024 – Aug 2024)  
-> Delivered bilingual customer service and teamwork in a fast-paced environment.
-
----
-
-## 🚀 Projects
-
-### 🗄️ [Backoffice Data Organizer](https://github.com/LukeCurran3/Backoffice-Data-Organizer)
-Collaborated on a bilingual team in Argentina to design a **polyglot persistence** database using MongoDB and Neo4j for a client company.
-
-### 🗳️ [Election Predictor]((https://github.com/SinhaM101/CSDS234ElectionPredictor))
-Built a full-stack **machine learning model** in Python to forecast presidential outcomes using county-level issue data.
+**Student Research Assistant** | Center on Urban Poverty and Community Development, CWRU | Cleveland, OH
+- Built NST 2.0, a Streamlit neighborhood data tool for Cleveland, processing a 30 GB SAS dataset with 600K+ records and deploying it to Streamlit Cloud.
 
 ---
 
-## 🏫 Leadership & Campus Life
+## Selected Work
 
-- **Vice President**, Quantum Computing Club — Hosting hackathons and promoting accessible quantum education.  
-- **Public Relations**, La Amistad — Doubled social engagement and led Spanish conversation events.  
-- **External Outreach**, HackCWRU — Secured $4K+ in sponsorships and prizes.  
-- **Wellness Chair**, Delta Tau Delta — Organized philanthropy events for malaria prevention.  
-- **Varsity Rower**, CWRU Rowing — Competed in Men's 4+ and 8+.
+### Fentanyl Corridors Map | InSight Crime
+`React` `deck.gl` `Mapbox`
+Interactive geospatial visualization built for InSight Crime's report *Reglas locales, lecciones globales* on fentanyl trafficking corridors. Published on InSight Crime's site with author credit.
+
+### Invisible Borders | Research
+Paper on how criminal territorial control shapes health outcomes in Mexico's northern border cities. Poster accepted at the American Society of Criminology 2026 Annual Meeting (Chicago); full paper in preparation for LASA 2027.
+
+### [Election Predictor](https://github.com/SinhaM101/CSDS234ElectionPredictor)
+`Python` `scikit-learn`
+Machine learning model forecasting presidential election outcomes from county-level issue data.
+
+### [Backoffice Data Organizer](https://github.com/LukeCurran3/Backoffice-Data-Organizer)
+`MongoDB` `Neo4j`
+Polyglot persistence database designed for a client company with a Spanish-speaking team in Buenos Aires.
+
+### Distributed Inference Benchmark
+`PySpark` `HPC`
+Benchmarked serial versus PySpark model inference on CWRU's Markov HPC cluster.
 
 ---
 
-## 🌍 Languages & Interests
+## Technical Skills
 
-**Languages:** 🇺🇸 English (Native/Bilingual), 🇪🇸 Spanish (Native/Bilingual)  
-**Interests:** Cooking, rowing, chess, nature documentaries, golf, running, Corridos music 🎶
+**Languages:** Python, R, SQL
+**Data and ML:** pandas, scikit-learn, PySpark, PyTorch
+**Databases:** MySQL, MongoDB, Neo4j
+**Visualization and Deployment:** Streamlit, deck.gl, Mapbox, Vercel
+**Other:** Web scraping and automation, Git
 
 ---
 
+## Education
+
+**Case Western Reserve University** | B.S. Data Science, second major in Spanish | May 2027
+**Instituto Tecnológico de Buenos Aires** | Exchange semester, all coursework in Spanish | Spring 2025
+
+---
+
+## Leadership
+
+- **Founder, Tesseract:** house music event series in Cleveland; debut night sold 180+ tickets
+- **Vice President, La Amistad:** CWRU's Spanish language and culture club
+- **External Outreach, HackCWRU:** secured $4K+ in sponsorships and prizes
+
+---
+
+**Languages:** English (native), Spanish (near-native)
+**Outside of work:** CWRU competitive salsa team, distance running, cooking
